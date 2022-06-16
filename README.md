@@ -1,6 +1,8 @@
-# Content v2 Minimal Starter
+# Nuxt Content v2 Minimal Starter with Netlify
 
 Look at the [Content documentation](https://content-v2.nuxtjs.org/) to learn more.
+
+For information on deploying Nuxt 3 on Netlify, check out the [official docs](https://docs.netlify.com/integrations/frameworks/nuxt/) to learn more.
 
 ## Setup
 
